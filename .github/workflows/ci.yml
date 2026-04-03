@@ -41,6 +41,5 @@ jobs:
           context: . 
           push: true 
           tags: | 
-            tags: |
-                ghcr.io/kollab-yass/task-manager-api:latest
-                ghcr.io/kollab-yass/task-manager-api:prod
+              ghcr.io/kollab-yass/task-manager-api:latest
+              ghcr.io/kollab-yass/task-manager-api:prod
